@@ -1,1 +1,1 @@
-# superbase-worker
+# supabase-worker
