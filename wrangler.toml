@@ -1,0 +1,7 @@
+name = "superbase-worker"
+main = "src/index.js"
+compatibility_date = "2022-08-18"
+
+kv_namespaces = [
+ { binding = "ARTICLES", id = "5b9526a78a8d42439f314ef10f8cb3a9", preview_id = "44f05e8edce044838f2f6f7e0bdf4179" }
+]
